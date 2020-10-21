@@ -1,0 +1,3 @@
+ What technologies/frameworks you are/would use in implementing various parts/tiers of this system
+
+ I would use JSF because is an MVC framework, includes a lot of libraries that helps in front end development 
